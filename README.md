@@ -69,7 +69,7 @@ lerobot-train --dataset.root=p1-so101-sim-t2 \
 
 ## What this dataset is for
 
-It is the training set for the sim phase of P1, a pre-registered comparison of three ways of turning an instruction into robot motion. The sim phase is a toolchain validation and a distillation study; the headline result is deferred to hardware in November, with human teleoperation. Anyone reproducing the benchmark needs the protocol as well as the data.
+Collected for the ACT training work in [so101-act-training](https://github.com/Bhavya007-17/so101-act-training), which was paused in September 2026 before the planned policy comparison.
 
 ## Licence and citation
 
